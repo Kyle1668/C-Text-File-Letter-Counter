@@ -30,7 +30,7 @@ int main()
 
 std::string getFileURL()
 {
-    std::cout << "\nEnter URL of the file you wish to read from. : ";
+    std::cout << "\nEnter the path of the file you wish to read from. : ";
     std::string fileURL;
     std::getline(std::cin, fileURL);
     return fileURL;
