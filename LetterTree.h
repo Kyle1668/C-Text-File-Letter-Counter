@@ -1,9 +1,8 @@
-//
-// Created by Kyle O'Brien on 8/24/17.
-//
 
 #ifndef C_TEXT_FILE_LETTER_COUNTER_LETTERTREE_H
 #define C_TEXT_FILE_LETTER_COUNTER_LETTERTREE_H
+
+#include <iostream>
 
 class LetterTree {
 private:
