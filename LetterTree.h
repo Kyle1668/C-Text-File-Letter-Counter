@@ -5,10 +5,6 @@
 #ifndef C_TEXT_FILE_LETTER_COUNTER_LETTERTREE_H
 #define C_TEXT_FILE_LETTER_COUNTER_LETTERTREE_H
 
-#include <iostream>
-#include <fstream>
-#include <string>
-
 class LetterTree {
 private:
     struct LetterNode
